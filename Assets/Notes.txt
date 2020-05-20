@@ -1,0 +1,27 @@
+Level Design I
+
+Elevator:
+A wooden plank dangling off of two ropes similiat to the old century of window washers 
+Two ropes holding the wooden plank on both side and will rise once the player activates a triggerbox
+Reference:
+https://h-town-visually.blogspot.com/2014/06/skyscraper-window-cleaning.html
+
+Push/Pull Wooden Crates:
+We'll have a old wooden crate for players to use with the PUSH/PULL mechanic of our game. This will
+allow players to reach certain area or solve puzzles to advance to the next objective.
+
+Ladder:
+The ladder asset will consist of a wooden ladder that will allow player to rise up to the next level or
+go back down to where they were before.
+
+Update Log:
+Added placeholders for the art as I would require them after the first sprint unless specified. 
+Added Push/Pull mechanics and implemented Ladder Script/Assets as provided
+Added a simple dark/loomy tone for the enviroment to give an idea for the atmosphere of the game (B/W Effect)
+Added Elevator platform 
+
+Tasks:
+Need to implement elevator platforms from provided script
+Need to initiate collab
+Need to set up a level design for the first sprint
+Need to fix jump mechanic and mass set up
